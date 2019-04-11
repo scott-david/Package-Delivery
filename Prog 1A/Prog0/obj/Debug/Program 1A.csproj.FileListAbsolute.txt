@@ -1,0 +1,4 @@
+C:\Users\Scott Morgan\Documents\CIS 200\Prog 1A\Prog0\obj\Debug\Program 1A.csprojAssemblyReference.cache
+C:\Users\Scott Morgan\Documents\CIS 200\Prog 1A\Prog0\obj\Debug\Program 1A.csproj.CoreCompileInputs.cache
+C:\Users\Scott Morgan\Documents\CIS 200\Prog 1A\Prog0\obj\Debug\Prog0.exe
+C:\Users\Scott Morgan\Documents\CIS 200\Prog 1A\Prog0\obj\Debug\Prog0.pdb
